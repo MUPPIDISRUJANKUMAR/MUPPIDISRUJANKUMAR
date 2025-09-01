@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muppidi Srujan Kumar</h1>
 
 # 💫 About Me:
-🔭 I’m currently working on Web development Projects<br>👯 I’m looking to collaborate on Frotend Techonolgies <br>🤝 I’m looking for help with <br>🌱 I’m currently learning Full stack development <br>💬 Ask me about<br>
+🔭 I’m currently working on Web development Projects<br>👯 I’m looking to collaborate on Frotend Technologies <br>🤝 I’m looking for help with <br>🌱 I’m currently learning Full stack development <br>💬 Ask me about<br>
 
 
 ## 🌐 Socials:
