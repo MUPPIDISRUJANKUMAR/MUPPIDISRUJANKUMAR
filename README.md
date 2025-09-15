@@ -1,7 +1,20 @@
 <h1 align="center">Hi 👋, I'm Muppidi Srujan Kumar</h1>
 
+<h3 align="center">Aspiring Full-Stack Developer | MERN & PHP | Cloud & Data Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=B.Tech+CS+Student+@+SR+University;Aspiring+Full-Stack+Developer;MERN+%26+PHP+Developer;AI+%26+ML+Explorer;Cloud+%26+Data+Enthusiast;Always+Learning+New+Technologies;University+Hackathon+Finalist+%F0%9F%8E%89" alt="Typing SVG" />
+</p>
+
+
+
 # 💫 About Me:
-🔭 I’m currently working on Web development Projects<br>👯 I’m looking to collaborate on Frotend Technologies <br>🤝 I’m looking for help with <br>🌱 I’m currently learning Full stack development <br>💬 Ask me about<br>
+🔭 I’m currently working on Full-Stack Web Development Projects<br>
+👯 I’m looking to collaborate on Frontend & Backend Technologies<br>
+🤝 I’m looking for mentorship and guidance in advanced projects<br>
+🌱 I’m currently learning Full-Stack Development, AI & Cloud<br>
+💬 Ask me about MERN, PHP, SQL, AWS, and AI/ML projects<br>
+
 
 
 ## 🌐 Socials:
@@ -19,6 +32,10 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MUPPIDISRUJANKUMAR&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MUPPIDISRUJANKUMAR&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- <h3 align="center"></h3> -->
